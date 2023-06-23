@@ -1,0 +1,10 @@
+Burbur Discord'un Hayat Kitabı
+
+Kuraldarname
+
+:::
+($)Hatalı Yazım'ı Düzeltme($)
+Hatalı yazıları düzeltmek için yeni bir mesaj yazın ve başına `'*'` koyun sonra
+hatalı kelimeyi düzeltilmiş olarak yazın.
+:::
+BURBUR

@@ -2,4 +2,7 @@ VATANDAŞ BİLGİ SİSTEMİ - 2023 -
 
 SON DÜZENLEME : 04/08/2023
 ===========================================================
-04/08/2023 : DEVLET HİZMET PAYI = 10 TL
+
+<04/08/2023>
+  * (04/08/2023) : DEVLET HİZMET PAYI = 10 TL
+  * [16:30] #0001 No. Kanun yürürlükte

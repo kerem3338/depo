@@ -1,4 +1,5 @@
 <xml>
   <item name="welcome" sleep="0.7" description="Karşılama Animasyonu" categorys="welcoming">MERHABALAR//MERHABALAR//SUNUCUYA//SUNUCUYA//HOŞ//GELDİNİZ//GELDİNİZ</item>
   <item name="kby" sleep="0.3" description="Kby özel animasyon" categorys="kby">**KBY**//KBY//**KBY**//KBY//**KBY**//KBY</item>
+  <item name="sa" sleep="0.2" description="Selamun Aleyküm" categorys="klasik">:regional_indicator_s: :regional_indicator_a:// :regional_indicator_b::regional_indicator_e: :regional_indicator_l: :regional_indicator_e: :regional_indicator_r:</item>    
 </xml>

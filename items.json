@@ -1,4 +1,11 @@
 {
+"item_key_translate":{
+  "description":"Açıklama",
+  "language":"Programlama Dili",
+  "links":"Link(ler)",
+  "status":"Statü",
+  "release-date":"Çıkış Tarihi"
+},
 "items":{
   "autowriter":{
   "description":"Zoda AutoWriter",

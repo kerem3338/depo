@@ -4,7 +4,8 @@
   "language":"Programlama Dili",
   "links":"Link(ler)",
   "status":"Statü",
-  "release-date":"Çıkış Tarihi"
+  "release-date":"Çıkış Tarihi",
+  "price":"Ücret"
 },
 "items":{
   "autowriter":{
@@ -12,7 +13,8 @@
   "language":"python",
   "links":"https://dcturkiye.com/konular/zoda-auto-writer-v1.10542/",
   "status":"ok",
-  "release-date":"15 Nisan 2024"
+  "release-date":"15 Nisan 2024",
+  "price": 2
   }
 }
 }

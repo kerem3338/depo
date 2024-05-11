@@ -5,6 +5,7 @@
   "links":"Link(ler)",
   "status":"Statü",
   "release-date":"Çıkış Tarihi",
+  "publisher":"Yayıncı",
   "price":"Ücret"
 },
 "items":{
@@ -14,7 +15,17 @@
   "links":"https://dcturkiye.com/konular/zoda-auto-writer-v1.10542/",
   "status":"ok",
   "release-date":"15 Nisan 2024",
+  "publisher":"ZodaMarket",
   "price": 2
+  },
+  "toloka_pdf":{
+    "description":"Toloka İle Para Kazanmayı Anlatan Bir E Kitap",
+    "language":"pdf",
+    "links":"",
+    "status":"ok",
+    "release-date":"11 Mayıs 2024",
+    "publisher":"ZodaMarket",
+    "price":3
   }
 }
 }

@@ -1,0 +1,5 @@
+{
+  [
+  {"name":"Example VDS Provider","vds_price":10,"currency":"TL","information":"","technical":"","ram":3,"vds_name":"example_db"}
+  ]
+}
